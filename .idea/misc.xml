@@ -6,6 +6,8 @@
       <list>
         <option value="$PROJECT_DIR$/ds-Algorithm/pom.xml" />
         <option value="$PROJECT_DIR$/dsa-02-Arrays/pom.xml" />
+        <option value="$PROJECT_DIR$/dsa-03-CollectionsReview/pom.xml" />
+        <option value="$PROJECT_DIR$/dsa-04-LinkedLists/pom.xml" />
       </list>
     </option>
   </component>
