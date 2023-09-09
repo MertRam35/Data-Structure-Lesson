@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.LinkedList;
 
 public class SinglyLinkedListApp {
     public static void main(String[] args) {
@@ -13,6 +14,8 @@ public class SinglyLinkedListApp {
           newHead=newHead.next;
       }
 
+        LinkedList<String> strings = new LinkedList<>();
+        int num1=9; int num2=num1++; if(num2<10){ System.out.println(num2+"Hello World");} else{ System.out.println(num2+"Hello Universal");}
 
 
     }
