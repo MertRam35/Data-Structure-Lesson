@@ -15,8 +15,6 @@ public class Main {
     private static void addFirst(int data) {
         Node node = new Node(data);
 
-if (isEpmty()){
 
-}
     }
 }

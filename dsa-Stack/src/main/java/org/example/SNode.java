@@ -2,7 +2,7 @@ package org.example;
 
 public class SNode<T> {
 
-     public T value;
+    public T value;
     SNode next;
 
     public SNode(T value) {
